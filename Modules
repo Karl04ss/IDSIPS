@@ -19,3 +19,12 @@ Niskie koszty utrzymania i obsługi systemu.
 Dostępność profesjonalnego wsparcia technicznego i szkoleń dla personelu odpowiedzialnego za zarządzanie systemem.
 Możliwość integracji z innymi systemami informatycznymi w firmie, takimi jak systemy zarządzania ruchem sieciowym, systemy zarządzania bezpieczeństwem itp.
 Możliwość uzyskania certyfikatów i zgodności z normami bezpieczeństwa, takimi jak ISO 27001.
+
+Wymagania funkcjonalne modułu detekcji intruza w systemie IDS/IPS:
+Możliwość monitorowania ruchu sieciowego i wykrywania podejrzanych aktywności.
+Obsługa różnych protokołów sieciowych, takich jak TCP, UDP, ICMP itp.
+Możliwość konfigurowania reguł detekcji, aby wykrywać określone rodzaje ataków lub podejrzane aktywności.
+Możliwość definiowania różnych poziomów alertów w zależności od ryzyka związanego z danym zdarzeniem.
+Funkcja rejestrowania i raportowania wykrytych zdarzeń, w tym możliwość przechowywania dzienników zdarzeń w bezpiecznym miejscu.
+Możliwość wygenerowania raportów zawierających statystyki dotyczące wykrytych zdarzeń, co umożliwia lepsze zrozumienie skali i rodzaju zagrożeń.
+Możliwość integracji z innymi systemami zabezpieczeń, takimi jak systemy ochrony przed spamem czy systemy antywirusowe, w celu uzyskania pełniejszego obrazu aktywności w sieci.
