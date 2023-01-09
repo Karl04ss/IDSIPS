@@ -28,3 +28,20 @@ Możliwość definiowania różnych poziomów alertów w zależności od ryzyka 
 Funkcja rejestrowania i raportowania wykrytych zdarzeń, w tym możliwość przechowywania dzienników zdarzeń w bezpiecznym miejscu.
 Możliwość wygenerowania raportów zawierających statystyki dotyczące wykrytych zdarzeń, co umożliwia lepsze zrozumienie skali i rodzaju zagrożeń.
 Możliwość integracji z innymi systemami zabezpieczeń, takimi jak systemy ochrony przed spamem czy systemy antywirusowe, w celu uzyskania pełniejszego obrazu aktywności w sieci.
+
+Wymagania dotyczące bezpieczeństwa modułu detekcji intruza w systemie IDS/IPS:
+Ochrona przed atakami typu "man-in-the-middle", które polegają na przechwytywaniu i modyfikowaniu ruchu sieciowego.
+Możliwość ochrony przed atakami typu "denial of service" (DoS), które polegają na zablokowaniu dostępu do określonych usług poprzez zalewanie ich zapytaniami.
+Zabezpieczenie przed atakami typu "spoofing", w których atakujący podszywa się pod inną osobę lub urządzenie.
+Ochrona przed atakami typu "phishing", które polegają na podszywaniu się pod zaufaną osobę lub instytucję w celu wyjęcia danych osobowych lub finansowych od ofiar.
+Możliwość uwierzytelnienia źródeł ruchu sieciowego, aby uniemożliwić atakowi podszycie się pod inną osobę lub urządzenie.
+Zabezpieczenie przed atakami na same urządzenia IDS/IPS, takimi jak ataki DoS czy ataki na oprogramowanie.
+Możliwość uwierzytelniania użytkowników i uprawnień dostępu do panelu administracyjnego i innych funkcji systemu IDS/IPS.
+
+Wymagania biznesowe modułu detekcji intruza w systemie IDS/IPS:
+Niski poziom fałszywych alarmów, aby zminimalizować obciążenie pracowników i koszty związane z obsługą systemu.
+Możliwość scalenia z istniejącymi systemami zabezpieczeń, takimi jak firewalle czy systemy antywirusowe, w celu uzyskania pełniejszego obrazu aktywności w sieci.
+Łatwa obsługa i konfiguracja, aby umożliwić personelowi IT szybką reakcję na zagrożenia i szybkie aktualizacje reguł detekcji.
+Niskie koszty utrzymania i aktualizacji, aby zminimalizować obciążenie budżetu IT.
+Możliwość zdalnej administrowania systemem IDS/IPS, aby umożliwić personelowi IT zdalną obsługę i konfigurację systemu.
+Możliwość integracji z innymi systemami zarządzania bezpieczeństwem, takimi jak systemy SIEM, aby umożliwić łatwe raportowanie i analizę danych dotyczących bezpieczeństwa.
