@@ -59,3 +59,10 @@ Szyfrowanie przechowywanych logów i przesyłanych danych za pomocą protokołó
 Regularne przeprowadzanie skanowania pod kątem wycieków danych i nieautoryzowanych dostępów.
 Możliwość tworzenia kopii zapasowych logów w celu zabezpieczenia przed utratą danych.
 
+Wymagania biznesowe modułu zarządzania logami w systemie IDS/IPS mogą obejmować następujące elementy:
+Łatwa obsługa i niezawodność dla użytkowników końcowych.
+Możliwość dostosowania do indywidualnych potrzeb i wymagań biznesowych przedsiębiorstwa.
+Skalowalność rozwiązania wraz ze wzrostem objętości logów i liczby użytkowników.
+Możliwość integracji z istniejącymi systemami zarządzania bezpieczeństwem i zarządzaniem siecią.
+Niskie koszty utrzymania i elastyczne opcje licencyjne.
+Dostępność profesjonalnego wsparcia technicznego i szkoleń dla użytkowników.
