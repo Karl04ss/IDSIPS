@@ -45,3 +45,17 @@ Możliwość scalenia z istniejącymi systemami zabezpieczeń, takimi jak firewa
 Niskie koszty utrzymania i aktualizacji, aby zminimalizować obciążenie budżetu IT.
 Możliwość zdalnej administrowania systemem IDS/IPS, aby umożliwić personelowi IT zdalną obsługę i konfigurację systemu.
 Możliwość integracji z innymi systemami zarządzania bezpieczeństwem, takimi jak systemy SIEM, aby umożliwić łatwe raportowanie i analizę danych dotyczących bezpieczeństwa.
+
+Wymagania funkcjonalne modułu zarządzania logami w systemie IDS/IPS mogą obejmować następujące elementy:
+Rejestrowanie i przechowywanie logów zdarzeń związanych z działaniem systemu IDS/IPS, takich jak alarmy bezpieczeństwa, aktywność sieciowa i aktywność użytkowników.
+Filtrowanie i wyszukiwanie logów za pomocą różnych kryteriów, takich jak czas, typ zdarzenia, źródło i adres IP.
+Tworzenie raportów z logów za pomocą predefiniowanych szablonów lub własnych ustawień.
+Możliwość exportowania logów do różnych formatów plików, takich jak CSV, Excel lub PDF.
+Możliwość integracji z innymi narzędziami do zarządzania logami, takimi jak Splunk lub ELK Stack.
+Możliwość konfiguracji powiadomień e-mail lub SMS w przypadku wystąpienia określonego typu zdarzenia w logach.
+Wymagania dotyczące bezpieczeństwa modułu zarządzania logami w systemie IDS/IPS mogą obejmować następujące elementy:
+Ochrona przed nieautoryzowanym dostępem do logów za pomocą mechanizmów uwierzytelniania i autoryzacji.
+Szyfrowanie przechowywanych logów i przesyłanych danych za pomocą protokołów szyfrujących, takich jak SSL lub TLS.
+Regularne przeprowadzanie skanowania pod kątem wycieków danych i nieautoryzowanych dostępów.
+Możliwość tworzenia kopii zapasowych logów w celu zabezpieczenia przed utratą danych.
+
