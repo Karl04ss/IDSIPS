@@ -4,9 +4,18 @@ Możliwość konfiguracji reguł w celu określenia, jakie rodzaje ruchu sieciow
 Możliwość generowania alertów i raportów zdarzeń, które mogą być przeglądane przez administratora systemu lub przekazywane do odpowiednich osób lub systemów.
 Możliwość integracji z innymi systemami bezpieczeństwa, takimi jak firewalle, systemy antywirusowe itp., w celu zapewnienia kompleksowej ochrony przed zagrożeniami.
 Możliwość zarządzania politykami bezpieczeństwa i konfiguracji systemu za pomocą przyjaznego interfejsu użytkownika.
+
 Wymagania dotyczące bezpieczeństwa modułu prewencji intruza mogą obejmować:
 Zabezpieczenia przed nieautoryzowanym dostępem do systemu lub danych, takie jak uwierzytelnianie użytkowników i szyfrowanie danych.
 Ochrona przed awariami systemu i utratą danych, np. poprzez kopie zapasowe i redundantne konfiguracje sprzętowe.
 Możliwość śledzenia i rejestrowania działań użytkowników w celu wykrywania niepożądanych lub nielegalnych działań.
 Zgodność z odpowiednimi przepisami i regulacjami dotyczącymi bezpieczeństwa danych i ochrony prywatności, takimi jak RODO.
 
+Wymagania biznesowe modułu prewencji intruza mogą obejmować:
+Możliwość skalowania systemu wraz ze wzrostem wielkości i złożoności sieci, aby zapewnić niezawodną ochronę przed zagrożeniami.
+Elastyczność w zakresie wyboru sposobu instalacji i wdrożenia systemu, np. jako rozwiązanie oprogramowania lub sprzętu, lokalne lub chmurowe.
+Możliwość dostosowania i konfiguracji systemu do indywidualnych potrzeb i wymagań biznesowych klienta.
+Niskie koszty utrzymania i obsługi systemu.
+Dostępność profesjonalnego wsparcia technicznego i szkoleń dla personelu odpowiedzialnego za zarządzanie systemem.
+Możliwość integracji z innymi systemami informatycznymi w firmie, takimi jak systemy zarządzania ruchem sieciowym, systemy zarządzania bezpieczeństwem itp.
+Możliwość uzyskania certyfikatów i zgodności z normami bezpieczeństwa, takimi jak ISO 27001.
